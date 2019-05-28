@@ -14,7 +14,7 @@ data validation for future computational catalysis research.
 To make this data more easily accessible, we develop both a [web API][cathub_bimetal] and [python API][cathub_github]. Interested researcher can clone the github repo and then using few lines of code (shown in the snippet below), anyone can get the data from a python console. 
 
 {% highlight python %}
->>> fro cathub.query import get_reactions
+>>> from cathub.query import get_reactions
 >>> data = get_reactions(n_results="all",
                          pubID="MamunHighT2019",
                          reactants="H2",
