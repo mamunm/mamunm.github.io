@@ -6,16 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Spaghetti-san Blog
-email: spaghettisan@yahoo.com
+title: Osman Mamun's Portfolio
+email: mamunm@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
-  All about Spaghetti-san Project
+  A data science and software development protfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://spaghetti.ga" # the base hostname & protocol for your site
-twitter_username: axlyody
-github_username:  spaghetti-san
-facebook_username:  axlyody
-disqus_id: spaghettisan.disqus.com
+url: "mamunm@github.io" # the base hostname & protocol for your site
+twitter_username: Osman_G_Mamun
+github_username:  mamunm
 
 # Gems
 gems: 
