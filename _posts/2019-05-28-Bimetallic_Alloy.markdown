@@ -52,6 +52,6 @@ get_logfile(aseId=info[6], fname=fname + '/pw.pwo')
 where, `aseId` is the unique ase ID of the calculation you want to get and `fname` is the filename that you want to save.
 
 
-[bimetallic_url]: https://www-nature-com/articles/s41597-019-0080-z
+[bimetallic_url]: https://www-nature-com.stanford.idm.oclc.org/articles/s41597-019-0080-z
 [cathub_bimetal]: https://www.catalysis-hub.org/publications/MamunHighT2019
 [cathub_github]: https://github.com/SUNCAT-Center/CatHub/tree/master/cathub
